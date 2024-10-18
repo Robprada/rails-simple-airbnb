@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+ .card-title {
+  font-weight: bold;
+}
+
+.card-footer {
+  background-color: transparent;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.card {
+  background-color: #f8f9fa;
+}
